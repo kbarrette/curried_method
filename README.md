@@ -1,0 +1,1 @@
+# curried_method
